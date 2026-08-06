@@ -79,7 +79,8 @@ namespace TirumalaAR.EditorTools
                 "Assets/Resources/Landmarks", "Assets/Resources/ReferenceImages",
                 "Assets/Scenes", "Assets/Settings/AR",
                 "Assets/StreamingAssets/GeoJSON", "Assets/StreamingAssets/Database",
-                "Assets/StreamingAssets/Images", "Assets/StreamingAssets/Metadata"
+                "Assets/StreamingAssets/Images", "Assets/StreamingAssets/Metadata",
+                "Assets/StreamingAssets/OfflineMap"
             };
 
             foreach (var folder in folders)
