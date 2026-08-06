@@ -25,6 +25,17 @@
 # Visual Studio cache directory
 .vs/
 
+# Local VS Code settings
+.vscode/
+
+# Local temporary repo clone used for push operations
+AR_Navigation_push/
+
+# Other local temporary folders
+.qodo/
+.utmp/
+Ar_BackUpThisFolder_ButDontShipItWithYourGame/
+
 # Gradle cache directory
 .gradle/
 
